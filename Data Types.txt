@@ -1,0 +1,29 @@
+Data Types:
+1. What are the basic data types in Python/Java/C++?
+2. Explain the difference between a list and a tuple in Python.
+3. What is typecasting and how is it done in programming languages?
+4. Describe the concept of immutable data types.
+
+Operators:
+5. Explain the difference between '==' and '===' operators.
+6. What is the purpose of the '++' and '--' operators in languages like JavaScript?
+7. How do bitwise operators work? Provide examples.
+8. Discuss the difference between '&&' and '||' logical operators.
+
+Conditional Statements:
+9. Explain the 'if', 'else if', and 'else' statements in programming.
+10. What is a ternary operator? Give an example.
+11. How does a switch statement work in languages like Java or C#?
+
+Looping Statements:
+12. What's the difference between 'for' and 'while' loops?
+13. Explain the 'break' and 'continue' statements in loops.
+14. How can you prevent an infinite loop in programming?
+
+Functions:
+15. Describe the difference between a function declaration and a function expression.
+16. What is recursion, and when would you use it in programming?
+17. Discuss the concept of function parameters and arguments.
+18. Explain the importance of the 'return' statement in a function.
+19.Explain the concept of list comprehension in Python.
+20.Discuss the importance of indentation in Python and how it affects code execute.
